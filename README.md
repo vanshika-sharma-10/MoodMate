@@ -7,7 +7,7 @@ _Welcome to **MoodMate**, a minimalist and aesthetic JavaFX desktop app to *trac
 ## 🖼️ Sneak Peek
 
 #### 🏠 Dashboard
-![Dashboard](src/main/resources/screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 #### Mood Log Page
 ![Mood Log Page](screenshots/mood-log.png)
